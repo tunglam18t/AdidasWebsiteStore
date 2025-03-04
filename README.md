@@ -15,6 +15,8 @@ This project analyzes Adidas product data using SQL Server, focusing on product 
 | Off-Court      | 108    | 3.27%          |  
 | Padel Tennis   | 105    | 3.18%          |  
 | Stability      | 53     | 1.61%          |  
+
+
 2️⃣ **Gender Target Analysis** - Objective: Determine which gender segment Adidas shoes target the most.
 3️⃣ **Most Common Color Sets**- Objective: Identify the most frequently used color combinations in Adidas products.
 4️⃣ **Adidas Shoe Price Distribution** - Objective: Categorize Adidas products into different price ranges.
