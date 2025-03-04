@@ -1,8 +1,9 @@
 # AdidasWebsiteStore
 📌 Project Overview
-This project analyzes Adidas product data using SQL Server, focusing on product distribution, pricing, availability, and sales trends. The dataset includes shoes_dim (product details) and shoes_fact (sales & stock data).
+Dự án này phân tích dữ liệu sản phẩm Adidas bằng SQL Server, tập trung vào phân phối sản phẩm, giá cả, tính khả dụng và xu hướng bán hàng. Bộ dữ liệu bao gồm shoes_dim (chi tiết sản phẩm) và shoes_fact (dữ liệu bán hàng và kho).
 📂 Key Analyses & Insights
 1️⃣ **Distribution of Adidas Products by Category** - Objective: Identify Adidas product segmentation based on their usage categories.
+## Distribution of Adidas Products by Category
 | **Best For Wear**  | **Total** | **Percentage (%)** |  
 |-------------------|--------|----------------|  
 | Neutral          | 1,153  | 34.92%         |  
@@ -15,7 +16,7 @@ This project analyzes Adidas product data using SQL Server, focusing on product 
 | Off-Court      | 108    | 3.27%          |  
 | Padel Tennis   | 105    | 3.18%          |  
 | Stability      | 53     | 1.61%          |  
-
+ Adidas tập trung vào các dòng giày trung tính, phù hợp với nhiều đối tượng và nhu cầu khác nhau. Ngoài ra, các dòng giày chuyên dụng như Racing (chạy) và Everyday (sử dụng hàng ngày) cũng có số lượng lớn, cho thấy họ chú trọng đến sự đa dạng trong phân khúc khách hàng.
 
 2️⃣ **Gender Target Analysis** - Objective: Determine which gender segment Adidas shoes target the most.
 ## 📊 Gender Distribution of Adidas Products  
