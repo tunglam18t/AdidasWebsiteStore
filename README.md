@@ -29,6 +29,7 @@ Insight: Adidas tập trung vào các dòng giày trung tính, phù hợp với 
 | Women      | 1,014  | 30%            |  
 | Kid        | 713    | 21%            |  
 | Men        | 441    | 13%            |  
+
 Insight: Đối với phân tích về phân khúc khách hàng, Adidas đang tối ưu hóa sản phẩm theo xu hướng phi giới tính (Unisex), điều này phù hợp với chiến lược thiết kế hiện đại, tiếp cận cả nam lẫn nữ. Bên cạnh đó, sự tập trung vào phụ nữ (30%) cho thấy Adidas đang đẩy mạnh phân khúc nữ giới hơn nam giới.
 
 3️⃣ **Most Common Color Sets**- Mục tiêu: Xác định các phối màu được sử dụng thường xuyên nhất trong các sản phẩm của Adidas.
@@ -60,6 +61,7 @@ Insight: Sản phẩm Adidas chủ yếu có màu **đen - trắng**, phản án
 | 150$ - 200$ | 452           |
 | 200$ - 300$ | 181           |
 | 300$ - 500$ | 30            |
+
 Insights: Adidas có chiến lược giá tập trung vào phân khúc giày tầm trung và giá rẻ, phù hợp với đại đa số người tiêu dùng. Phân khúc cao cấp (200$ trở lên) có rất ít sản phẩm.
 
 5️⃣ **Category Distribution** - Mục tiêu: Xác định danh mục sản phẩm nào chiếm ưu thế trong các sản phẩm của Adidas
